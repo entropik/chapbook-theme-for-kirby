@@ -1,0 +1,14 @@
+Title: Chapbook
+----
+Author: H.D.
+----
+Description: A Kirby Template for Poets
+----
+Keywords: kirby, cms, kirbycms, php, filesystem
+----
+Copyright: © 2014
+----
+MetaTitle: Chapbook, a Kirby Template for Poets
+----
+BackgroundColor: white
+
