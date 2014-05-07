@@ -38,7 +38,7 @@ You'll mostly be doing things in the `/content` folder.
 ### Content
 I recommend you read up on this primer first: [Adding content](http://getkirby.com/docs/content).
 
-To modify the content in a poem open up it's main text file – **poem.txt** – which is located in the content-folder, i.e. `/content/01-poem/poem.txt`.
+To modify the content in a poem open up it's main text file – **poem.txt** – which is located in the content-folder, i.e. `/content/01-the-pool/poem.txt`.
 
 ### Background Colors
 Provided options are white, yellow, light_orange, blue_pink, and purple although you can always modify these or add new options in your styles.css file.
